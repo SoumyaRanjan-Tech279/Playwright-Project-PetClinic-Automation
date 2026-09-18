@@ -1,5 +1,5 @@
 {
-  "name": "playwright-homework",
+  "name": "Playwright-Project-PetClinic-Automation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "commonjs",
   "devDependencies": {
-    "@playwright/test": "^1.62.0",
+    "@playwright/test": "^1.63.0",
     "@types/node": "^26.1.2",
     "dotenv": "^17.4.2"
   }
