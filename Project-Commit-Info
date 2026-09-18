@@ -1,0 +1,8 @@
+1. This commit contains changes for only Update Pet Type.
+2. For my only this test case is shown for practise.
+3. I have completed the assignments 2 ways : 
+  a. By adding all the validation and assertion within single test under input-fields-UnderSameTest.spec.ts
+  b. By adding each validation, update and assertions within different test under input-fields-diff-Testforeach-validtion.spec.ts.
+4. I have created 2 POM files and 1 helper file to make sure all my Locators and Classes should be sed effectively.
+
+Let me know if any modification or enhancement required for my project, i'm happy to do the same.
