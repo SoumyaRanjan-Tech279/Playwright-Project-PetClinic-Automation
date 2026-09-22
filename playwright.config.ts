@@ -11,6 +11,7 @@ export default defineConfig({
   timeout: 90000,
   use: {
     baseURL: 'https://petclinic.bondaracademy.com',
+    headless: false,
     trace: 'on-first-retry',
     storageState: '.auth/user.json',
     extraHTTPHeaders: {
